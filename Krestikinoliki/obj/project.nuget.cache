@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WmTJG3OqQOLIKxlnGpM5kW1girQBmtoFz9Yg+X2jqnvVMqB+wwx8qA53qMy020Egs7JTwlh2ZCtv5LOj4bztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\Downloads\\Krestikinoliki- (1)\\Krestikinoliki\\Krestikinoliki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

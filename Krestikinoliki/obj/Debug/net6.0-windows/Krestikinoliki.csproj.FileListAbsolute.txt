@@ -1,0 +1,39 @@
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.csproj.AssemblyReference.cache
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki_MarkupCompile.cache
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.exe
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.deps.json
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.runtimeconfig.json
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.dll
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.pdb
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.g.resources
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.AssemblyInfoInputs.cache
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.AssemblyInfo.cs
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.csproj.CoreCompileInputs.cache
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.dll
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\refint\Krestikinoliki.dll
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.pdb
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.genruntimeconfig.cache
+C:\Users\Mann\source\repos\mann\Krestikinoliki\Krestikinoliki\obj\Debug\net6.0-windows\ref\Krestikinoliki.dll
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.exe
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.deps.json
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.runtimeconfig.json
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.dll
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\bin\Debug\net6.0-windows\Krestikinoliki.pdb
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki_MarkupCompile.cache
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.g.resources
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.AssemblyInfoInputs.cache
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.AssemblyInfo.cs
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.dll
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\refint\Krestikinoliki.dll
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.pdb
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\Krestikinoliki.genruntimeconfig.cache
+C:\Users\anton\Downloads\Krestikinoliki- (1)\Krestikinoliki\obj\Debug\net6.0-windows\ref\Krestikinoliki.dll
